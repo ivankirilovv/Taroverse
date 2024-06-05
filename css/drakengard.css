@@ -230,3 +230,8 @@ img {
 .covers h3 {
   margin-top: -80px;
 }
+
+.world span {
+  display: block;
+  margin: 30px;
+}
